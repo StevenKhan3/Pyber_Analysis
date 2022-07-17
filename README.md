@@ -5,6 +5,8 @@ The reason for this projects is to analyze the Pybers ride services data and fin
 
 ## Results
 If you take a look at the data frame below, you can see that by divide the Pyber data into sections based on the type of area the rides are being taken, it reveals that there are some major differences in how many rides are being taken, how many drivers are in those areas, and how much those driverrs are getting paid.
+
+
 ![Dataframe_general](https://github.com/StevenKhan3/Pyber_Analysis/blob/main/Resources/Dataframe_Pyber.png)
 
 ![Pie_chart](https://github.com/StevenKhan3/Pyber_Analysis/blob/main/Analysis/Fig5.png)
